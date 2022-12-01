@@ -1,4 +1,4 @@
-# UT23-Accumulator-Control-Module-v.1.2
+# UT23 Accumulator Control Module v.1.2
 
 By: Benjamin Liang, Controller Design Lead, University of Toronto Formula Racing Team
 
